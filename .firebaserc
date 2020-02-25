@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-material-app-617c9": {
+      "hosting": {
+        "angular-material": [
+          "angular-material-app-617c9"
+        ]
+      }
+    }
+  }
+}
